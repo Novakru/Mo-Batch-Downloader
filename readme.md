@@ -7,9 +7,9 @@ Mo平台只支持单个文件的下载，不支持多文件、文件夹形式下
 1. 下载篡改猴插件
 2. 新建脚本，复制本仓库的`mo-download-all.user.js` 文件
 
-![image-20261103161828509](C:\Users\17484\AppData\Roaming\Typora\typora-user-images\image-20261103161828509.png)
+![image-20261103162141972](.\images\image-20261103161828509.png)
 
 3. ctrl + s保存
 4. 进入Mo平台，可以看到下载按钮，点击按钮即可使用
 
-![image-20261103162141972](C:\Users\17484\AppData\Roaming\Typora\typora-user-images\image-20261103162141972.png)
+![image-20261103161828509](.\images\image-20261103162141972.png)
