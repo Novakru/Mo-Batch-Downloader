@@ -1,0 +1,15 @@
+### 篡改猴：Mo 浙大工作台：一键下载全部文件
+
+Mo平台只支持单个文件的下载，不支持多文件、文件夹形式下载，此插件提供一键下载服务，所有文件打包为zip存储到本地，这样就可以快速使用codex、claude code等智能体工具进行编程训练。
+
+### Usage
+
+1. 下载篡改猴插件
+2. 新建脚本，复制本仓库的`mo-download-all.user.js` 文件
+
+![image-20261103161828509](C:\Users\17484\AppData\Roaming\Typora\typora-user-images\image-20261103161828509.png)
+
+3. ctrl + s保存
+4. 进入Mo平台，可以看到下载按钮，点击按钮即可使用
+
+![image-20261103162141972](C:\Users\17484\AppData\Roaming\Typora\typora-user-images\image-20261103162141972.png)
